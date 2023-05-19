@@ -1,7 +1,6 @@
 from PiicoDev_Unified import *
 from math import sqrt, atan2
 
-compat_str = '\nUnified PiicoDev library out of date.  Get the latest module: https://piico.dev/unified \n'
 
 # Global Variables
 _GRAVITIY_MS2 = 9.80665
