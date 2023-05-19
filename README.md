@@ -1,1 +1,1 @@
-# IoT-ve-GPS-destekli-D-me-Tespit-ve-Bildirim-Sistemi
+# IoT ve GPS destekli Dusme Tespit ve Bildirim Sistemi
