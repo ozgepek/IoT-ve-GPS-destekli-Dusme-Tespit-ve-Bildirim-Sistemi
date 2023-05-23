@@ -10,7 +10,7 @@ Güvenlik ve koruma açısından dikkat çekebilecek bu sistem, kazalara uğram�
 
 Sizin için değerli olan her anı korumak adına bu sistem, özellikle yaşlı bireyler, sporcular, işçiler ve risk altındaki gruplar için vazgeçilmez bir güvenlik önlemi sunuyor. Düşme bildirim sistemi sayesinde, kazaların getireceği tehlikelerin önüne geçmek artık mümkün.
 
-Projenin detaylı anlatımı için [Proje Adımları](https://github.com/ozgepek/IoT-ve-GPS-destekli-Dusme-Tespit-ve-Bildirim-Sistemi/wiki/IoT-ve-GPS-destekli-Dusme-Tespit-ve-Bildirim-Sistemi-Proje-Ad%C4%B1mlar%C4%B1) sayfasına gidebilirsiniz. 
+Projenin detaylı anlatımı için [Proje Adımları](https://github.com/ozgepek/IoT-ve-GPS-destekli-Dusme-Tespit-ve-Bildirim-Sistemi/wiki) sayfasına gidebilirsiniz. 
 
 
 ![image](https://github.com/ozgepek/IoT-ve-GPS-destekli-Dusme-Tespit-ve-Bildirim-Sistemi/assets/83868162/e9862970-4fbf-46eb-84a1-73a03e40d83a)
