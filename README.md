@@ -1,16 +1,12 @@
-# IoT ve GPS destekli Dusme Tespit ve Bildirim Sistemi
-Merhabalar,
+# IoT and GPS-Supported Fall Detection and Notification System
 
-Bu sayfada, Marmara Üniversitesi > Fen Bilimleri Enstitüsü > Elektrik-Elektronik Mühendisliği Yüksek Lisans eğitiminde Gömülü Sistemler ile Mobil Uygulamalar dersi için yapmış olduğum IoT ve GPS destekli Düşme Tespit ve Bildirim Sisteminin detaylı anlatımını yapacağım.
+Within the scope of the project, we developed a fall notification system to help protect human life. Thanks to this system, it is now possible to live safely at every step! The system not only instantly detects falls with its sensitive accelerometer but also accurately determines the location of the fall using GPS technology. These powerful features immediately notify users of the fall and its exact location, helping to prevent serious accidents and even fatal tragedies, while also increasing the chances of timely emergency intervention.
 
-Proje kapsamında İnsan hayatını korumak adına bir düşme bildirim sistemi geliştirdik. Sistem sayesinde Artık her adımda güven içinde yaşamak mümkün! Bu sistem, içerisinde yer alan hassas ivme sensörüyle anında düşme durumunu tespit etmekle kalmıyor, aynı zamanda GPS teknolojisi sayesinde düşülen yerin konumunu da kesin olarak belirleyebiliyor. Bu müthiş özellikler, kullanıcılara düşme olayını ve düşülen noktayı anında bildirerek, ciddi kazaların ve hatta ölüm gibi trajedilere yol açabilecek sonuçların önüne geçiyor, acil müdahale imkanı artırılıyor.
+From a safety and protection perspective, this system not only saves the lives of individuals who have experienced accidents but also prevents serious injuries and disasters. With the ever-alert fall notification system, people are able to move freely in their daily lives while sparing their loved ones from unnecessary worry.
 
+To protect every moment that matters to you, this system provides an indispensable safety measure, especially for elderly individuals, athletes, workers, and other at-risk groups. Thanks to the fall notification system, it is now possible to prevent the dangers that accidents may bring.
 
-Güvenlik ve koruma açısından dikkat çekebilecek bu sistem, kazalara uğramış olan bireylerin hayatlarını kurtarmakla kalmıyor, aynı zamanda ciddi yaralanmaların ve felaketlerin de önüne geçiyor. Her an tetikte olan düşme bildirim sistemi sayesinde, insanların günlük yaşantılarında özgürce hareket etmeleri sağlanıyor ve sevdiklerinin endişelenmesi engelleniyor.
-
-Sizin için değerli olan her anı korumak adına bu sistem, özellikle yaşlı bireyler, sporcular, işçiler ve risk altındaki gruplar için vazgeçilmez bir güvenlik önlemi sunuyor. Düşme bildirim sistemi sayesinde, kazaların getireceği tehlikelerin önüne geçmek artık mümkün.
-
-Projenin detaylı anlatımı için [Proje Adımları](https://github.com/ozgepek/IoT-ve-GPS-destekli-Dusme-Tespit-ve-Bildirim-Sistemi/wiki) sayfasına gidebilirsiniz. 
+For a detailed explanation of the project, you can visit the [Proje Adımları](https://github.com/ozgepek/IoT-ve-GPS-destekli-Dusme-Tespit-ve-Bildirim-Sistemi/wiki) page.
 
 
 ![image](https://github.com/ozgepek/IoT-ve-GPS-destekli-Dusme-Tespit-ve-Bildirim-Sistemi/assets/83868162/e9862970-4fbf-46eb-84a1-73a03e40d83a)
