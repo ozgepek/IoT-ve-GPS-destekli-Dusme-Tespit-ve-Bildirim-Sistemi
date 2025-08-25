@@ -6,7 +6,7 @@ From a safety and protection perspective, this system not only saves the lives o
 
 To protect every moment that matters to you, this system provides an indispensable safety measure, especially for elderly individuals, athletes, workers, and other at-risk groups. Thanks to the fall notification system, it is now possible to prevent the dangers that accidents may bring.
 
-For a detailed explanation of the project, you can visit the [Proje Adımları](https://github.com/ozgepek/IoT-ve-GPS-destekli-Dusme-Tespit-ve-Bildirim-Sistemi/wiki) page.
+For a detailed explanation of the project, you can visit the [Project Steps](https://github.com/ozgepek/IoT-ve-GPS-destekli-Dusme-Tespit-ve-Bildirim-Sistemi/wiki) page.
 
 
 ![image](https://github.com/ozgepek/IoT-ve-GPS-destekli-Dusme-Tespit-ve-Bildirim-Sistemi/assets/83868162/e9862970-4fbf-46eb-84a1-73a03e40d83a)
